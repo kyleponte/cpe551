@@ -1,5 +1,9 @@
 """
+find_sum.py
 Accepts two numbers from the user and prints the sum
+Kyle Ponte
+kponte@stevens.edu
+9/16/25
 """
 
 num1 = float(input("Enter the first number: "))
