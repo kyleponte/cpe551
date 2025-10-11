@@ -9,7 +9,7 @@ kponte@stevens.edu
 import math
 import time
 
-start_time = time.time()
+start_time = time.time() # records the start time
 math.pow(1000000,1000000)
 end_time = time.time()
 print(f"The elapsed time was {end_time - start_time} seconds")
